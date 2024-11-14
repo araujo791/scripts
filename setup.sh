@@ -7,7 +7,7 @@
 cd ~
 sudo apt-get update
 sudo apt-get install git -y
-git clone https://github.com/Lseything/scripts
+git clone https://github.com/araujo791/scripts
 cd scripts
 bash setup/android_build_env.sh
 
